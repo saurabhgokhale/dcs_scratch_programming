@@ -24,5 +24,5 @@ Visit [https://scratch.mit.edu/](https://scratch.mit.edu/), login to your accoun
 
 
 ### References:
-https://scratch.mit.edu/projects/735845722/
-https://www.codewizardshq.com/scratch-tutorial-for-kids/
+- https://scratch.mit.edu/projects/735845722/
+- https://www.codewizardshq.com/scratch-tutorial-for-kids/
