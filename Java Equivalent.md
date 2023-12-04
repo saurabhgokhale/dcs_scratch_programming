@@ -37,3 +37,9 @@ while (steps < 50) {
     moveForward(10);
     steps += 10;
 }
+```
+
+## Additional Info:
+- https://lab.scratch.mit.edu/videosprites/
+- https://lab.scratch.mit.edu/face/
+- https://lab.scratch.mit.edu/text/
